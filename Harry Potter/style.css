@@ -1,0 +1,68 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width: 20rem;
+    height: 2rem;
+}
+
+select{
+    width: 20rem;
+    height: 2rem;
+}
+
+img{
+    width: 15rem;
+    height: 20rem;
+}
+
+.ft{
+    color: rgb(14, 9, 80);
+    border: thin solid rgb(14, 9, 80);
+}
+
+.so{
+    color: rgb(95, 95, 99);
+    border: thin solid rgb(95, 95, 99);
+}
+
+.at{
+    color: rgb(255, 230, 89);
+    border: thin solid rgb(255, 230, 89);
+}
+
+.ak{
+    color: #000;
+    border: thin solid #000;
+}
+
+.zy{
+    color: rgb(240, 73, 165);
+    border: thin solid rgb(240, 73, 165);
+}
+
+.mp{
+    color: rgb(213, 252, 74);
+    border: thin solid rgb(213, 252, 74);
+}
+
+.oy{
+    color: #fff;
+    border: thin solid #fff;
+}
+
+.normal{
+    background-color: #fff;
+    color: #000;
+}
