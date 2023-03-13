@@ -20,7 +20,7 @@ function kitaplar(){
     }
     else if(kitaplar==2){
         document.body.style.backgroundColor="rgb(67, 183, 250)";
-        sonuc.innerHTML="'Mahsur kalmış cadıların ve büyücülerin acil durum taşıtı Hızır Otobüs'e hoş geldiniz. Asanızı tuttuğunuz elinizi uzatın, otobüse atlayın, sizi istediğiniz yere götürelim.' Sirius Black adında azılı bir katil, tüyler ürpertici Azkaban kalesinde tam on iki yıl boyunca tutsak kalmıştır. tek lanetle on üç kişiyi birden öldüren Black'in, Karanlık Lord Voldemort'un hizmetkarı olduğuna kesin gözüyle bakılmaktadır. Bir yolunu bulup Azkaban'dan kaçan Blac'in peşinde olduğu bir tek kişi vardır: Harry Potter. Harry büyücülük okulunun sihirli duvarları arasındayken, arkadaşları ve öğretmenleriyle birlikteyken bile güvende değildir. Çünkü aralarında bir hain olabilir.";
+        sonuc.innerHTML="'Mahsur kalmış cadıların ve büyücülerin acil durum taşıtı Hızır Otobüs'e hoş geldiniz. Asanızı tuttuğunuz elinizi uzatın, otobüse atlayın, sizi istediğiniz yere götürelim.' Sirius Black adında azılı bir katil, tüyler ürpertici Azkaban kalesinde tam on iki yıl boyunca tutsak kalmıştır. tek lanetle on üç kişiyi birden öldüren Black'in, Karanlık Lord Voldemort'un hizmetkarı olduğuna kesin gözüyle bakılmaktadır. Bir yolunu bulup Azkaban'dan kaçan Black'in peşinde olduğu bir tek kişi vardır: Harry Potter. Harry büyücülük okulunun sihirli duvarları arasındayken, arkadaşları ve öğretmenleriyle birlikteyken bile güvende değildir. Çünkü aralarında bir hain olabilir.";
         sonuc.classList.add("at");
         document.getElementById("resim").setAttribute("src", "images/at.jpg");
     }
